@@ -26,3 +26,21 @@ dist-ssr
 # Auto-generated files
 src/auto-imports.d.ts
 src/components.d.ts
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Environment overrides
+.env.local
+.env.*.local
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+nul
+
+# Testing
+coverage/
+
+# Claude Code
+.claude/
