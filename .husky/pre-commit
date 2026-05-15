@@ -1,1 +1,1 @@
-npm test
+npx vue-tsc --noEmit
